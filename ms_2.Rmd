@@ -1,0 +1,14 @@
+---
+title: "ms_2"
+output: html_document
+---
+
+repo URL: https://github.com/ellamichaels/ms_2.git
+
+*Project 1: https://kcao.shinyapps.io/billboard/ - *
+This project is awesome. First off, it's visually beautiful and offers insight into a wide variety of facets of popular songs over time. Katie also considers confounding variables like energy, valence, and tempo. The visualizations are comprehensive and compelling. It's also useful that she explicitly lays out some limitations in the about section. Notably, some observations got lost because of missing values and varying song titles/formats. There were also inconsistencies between the songs in the datasets - the lyrical data and timelessness data covered different sets of songs, which only becomes clear if you read the about section and might be misleading. Finally, she notes that the sentiment analysis package can't distinguish when words generally considered positive are used in a negative context.
+
+*Project 2: https://abrar-trabulsi.shinyapps.io/regime_vs_economic_shiny/ - *
+I think this project sets out to answer a very interesting question, but the two big problems are 1) the most prominently highlighted visualizations only cover GDP (national and per capita) without explicitly shedding much light on the relationship between that economic performance metric and regime type, and 2) the metric Abrar uses to measure regime type (degree of authoritarianism) is really never explained robustly. I think this is important given that it's not necessarily obvious how "regime type" would get quantified, and any one-dimensional metric like that risks missing a lot of nuance in particular governmental structures. It's hard to slap a number on bureaucracy. This is interesting research and this isn't a reason not to do it, but it's definitely a reason to at least present those limitations, if not take steps to overcome them or argue that they're not central to the work. 
+
+
